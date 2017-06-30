@@ -1,0 +1,10 @@
+<?php
+//数据库配置
+$config=array();
+$config['mysql']['DB_HOST']='localhost';
+$config['mysql']['DB_USERNAME']='root';
+$config['mysql']['DB_PASSWORD']='root';
+$config['mysql']['DB_NMAE']='test';
+$config['mysql']['DB_PORT']='3306';
+$config['mysql']['PREFIX']='';
+//回话相关配置

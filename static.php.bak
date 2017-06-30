@@ -1,0 +1,21 @@
+<?php
+class A {
+    public static function who() {
+        echo __CLASS__;
+    }
+    public static function test() {
+        // self::who();
+       static::who(); //static 关键字代表调用者本身
+    }
+}
+A::test();
+class B extends A {
+    public static function who() {
+        echo __CLASS__;
+    }
+}
+echo B::test();
+$file='http://www.test.com/1.txt';
+var_dump(is_file($file));
+
+var_dump(is_link($file));
