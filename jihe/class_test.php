@@ -22,17 +22,17 @@ class person{
 $p1=new person();
 $p1->height='180';
 
-$p1=new person;
-echo $p1->height;
+//$p1=new person();
+//echo $p1->height;
 
 $obj1=person::getInstance();//单间是一个特殊的对象  只能实例化一次单间只有一个对象实例对这个对象实例的操作都会保存到一个对象实例中
-$obj1->height='190';
+$obj1->height='200';
 
-//var_dump($obj1);
+var_dump($obj1);
 
 
 $obj2=person::getInstance();
-//var_dump($obj2);
+var_dump($obj2);
 $obj2->height;
 $obj2->width='300';
 var_dump($obj2);

@@ -1,5 +1,5 @@
 <?php
-function &F($a,$b,$c){
+function F(){
 $num=func_num_args();
 if($num>=2){
     var_dump(func_get_arg(0));
@@ -11,7 +11,7 @@ if($num>=2){
   }
   return $arr;//使用函数的引用返回函数必须要使用返回return.
 }
-$a= & F(8,2,5,6);//函数传参在调用函数函数所需要的参数不能少
+$a=  F(8);//
 
 //$e=&$g='5';
 //$e=&define('AAA','aaa');引用赋值只可以是变量
