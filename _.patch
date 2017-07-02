@@ -1,0 +1,100 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision fa8ea7f150c1eaddb7044454b1aff7ab120b3fda)
++++ .idea/workspace.xml	(revision )
+@@ -1,7 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="2dbb7d90-7164-4e86-a6ee-6713a8866c13" name="Default" comment="标识映射 未理解">
++    <list default="true" id="2dbb7d90-7164-4e86-a6ee-6713a8866c13" name="Default" comment="">
+       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+     </list>
+     <list id="d49ac5a4-86b4-4406-8a82-3e00def2ab0e" name="Failed commit: Default" comment="标识映射 未理解">
+@@ -39,8 +39,8 @@
+       <file leaf-file-name="ObjectWatcher.php" pinned="false" current-in-tab="true">
+         <entry file="file://$PROJECT_DIR$/objmap/domain/ObjectWatcher.php">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="25">
+-              <caret line="1" column="16" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="16" />
++            <state relative-caret-position="275">
++              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+               <folding />
+             </state>
+           </provider>
+@@ -115,6 +115,7 @@
+         <option value="$PROJECT_DIR$/objmap/base/AppException.php" />
+         <option value="$PROJECT_DIR$/objmap/domain/DomainObject.php" />
+         <option value="$PROJECT_DIR$/objmap/mapper/Mapper.php" />
++        <option value="$PROJECT_DIR$/objmap/domain/ObjectWatcher.php" />
+       </list>
+     </option>
+   </component>
+@@ -354,7 +355,7 @@
+       <workItem from="1472647750563" duration="129000" />
+       <workItem from="1498912170129" duration="603000" />
+       <workItem from="1498931221343" duration="12851000" />
+-      <workItem from="1498976896890" duration="18734000" />
++      <workItem from="1498976896890" duration="18942000" />
+     </task>
+     <task id="LOCAL-00001" summary="api">
+       <created>1472601155607</created>
+@@ -384,24 +385,38 @@
+       <option name="project" value="LOCAL" />
+       <updated>1499008771677</updated>
+     </task>
+-    <option name="localTasksCounter" value="5" />
++    <task id="LOCAL-00005" summary="标识映射 未理解">
++      <created>1499008890005</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1499008890005</updated>
++    </task>
++    <task id="LOCAL-00006" summary="标识映射 未理解">
++      <created>1499009030266</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1499009030266</updated>
++    </task>
++    <option name="localTasksCounter" value="7" />
+     <servers />
+   </component>
+   <component name="TimeTrackingManager">
+-    <option name="totallyTimeSpent" value="36797000" />
++    <option name="totallyTimeSpent" value="37005000" />
+   </component>
+   <component name="ToolWindowManager">
+     <frame x="1358" y="-8" width="1382" height="784" extended-state="6" />
+-    <editor active="false" />
++    <editor active="true" />
+     <layout>
+       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16187595" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5284178" sideWeight="0.5079957" order="7" side_tool="true" content_ui="tabs" />
++      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.56989247" sideWeight="0.51134646" order="7" side_tool="true" content_ui="tabs" />
+       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32718894" sideWeight="0.49200428" order="7" side_tool="false" content_ui="tabs" />
++      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.56989247" sideWeight="0.48865354" order="7" side_tool="false" content_ui="tabs" />
+       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39938557" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+@@ -823,8 +838,8 @@
+     </entry>
+     <entry file="file://$PROJECT_DIR$/objmap/domain/ObjectWatcher.php">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="25">
+-          <caret line="1" column="16" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="16" />
++        <state relative-caret-position="275">
++          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+           <folding />
+         </state>
+       </provider>
+\ No newline at end of file

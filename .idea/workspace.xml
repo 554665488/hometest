@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2dbb7d90-7164-4e86-a6ee-6713a8866c13" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+    <list default="true" id="2dbb7d90-7164-4e86-a6ee-6713a8866c13" name="Default" comment="标识映射 未理解">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_.patch" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/objmap/domain/ObjectWatcher.php" afterPath="$PROJECT_DIR$/objmap/domain/ObjectWatcher.php" />
     </list>
     <list id="d49ac5a4-86b4-4406-8a82-3e00def2ab0e" name="Failed commit: Default" comment="标识映射 未理解">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/registry/register.php" afterPath="$PROJECT_DIR$/registry/register.php" />
@@ -20,7 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
+    <option name="PATCH_PATH" value="D:\phpStudy\WWW\test" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
@@ -41,8 +40,8 @@
       <file leaf-file-name="ObjectWatcher.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/objmap/domain/ObjectWatcher.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+            <state relative-caret-position="300">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -357,7 +356,7 @@
       <workItem from="1472647750563" duration="129000" />
       <workItem from="1498912170129" duration="603000" />
       <workItem from="1498931221343" duration="12851000" />
-      <workItem from="1498976896890" duration="18873000" />
+      <workItem from="1498976896890" duration="19084000" />
     </task>
     <task id="LOCAL-00001" summary="api">
       <created>1472601155607</created>
@@ -394,11 +393,25 @@
       <option name="project" value="LOCAL" />
       <updated>1499008890005</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="标识映射 未理解">
+      <created>1499009030266</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1499009030266</updated>
+    </task>
+    <task id="LOCAL-00007" summary="标识映射 未理解">
+      <created>1499009196809</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1499009196809</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36936000" />
+    <option name="totallyTimeSpent" value="37147000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1382" height="784" extended-state="6" />
@@ -833,8 +846,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/objmap/domain/ObjectWatcher.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+        <state relative-caret-position="300">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding />
         </state>
       </provider>
